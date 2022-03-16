@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "messageType": "reciever",
+    "messageContent": "Heyyyy"
+  },
+  {
+    "id": 2,
+    "messageType": "reciever",
+    "messageContent": "u there?"
+  },
+  {
+    "id": 3,
+    "messageType": "reciever",
+    "messageContent": "helllloo"
+  },
+  {
+    "id": 4,
+    "messageType": "sender",
+    "messageContent": "How are you?"
+  },
+  {
+    "id": 5,
+    "messageType": "reciever",
+    "messageContent": "I am very good",
+
+  }
+]
